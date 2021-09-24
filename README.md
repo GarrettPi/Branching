@@ -18,3 +18,8 @@
 * `git branch -M` - renames current branch to a new name
 * `git branch branchName` - creates a new branch 'branchName'
 * `git checkout branchName`- go to branch 'branchName'
+
+### Remote commands
+* `git remote add origin someUrl` - links local repo with remote repo at 'someUrl'
+* `git push origin main` - push local commits to remote branch main
+* `git push origin branchName` - push to remote branch 'branchName'
