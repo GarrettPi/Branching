@@ -3,6 +3,9 @@
 
 Summary and cheat sheer of git commands, and practice branching.
 
+Text added in main branch.  Fuck this noise.
+
+
 
 ### Basic commands
 * `git init` - initializes a local git repo in current folder
