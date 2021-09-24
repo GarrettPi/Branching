@@ -1,6 +1,9 @@
 ## Git branching practice and cheat sheet
 
 
+Summary and cheat sheer of git commands, and practice branching.
+
+
 ### Basic commands
 * `git init` - initializes a local git repo in current folder
 * `git add .` - stage current changes for commit
