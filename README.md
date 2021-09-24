@@ -11,6 +11,7 @@
 * `git status` - show status of working folder and repo
 * `git log` - show log of commits
 * `git log --oneline` - show log of commits, one line each
+* `git config -l` - list git configuration
 
 ### Branching commands
 * `git branch` - list local branches, show which branch we are on
